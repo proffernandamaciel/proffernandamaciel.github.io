@@ -28,17 +28,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : # "Earth"
-  employer         : "California State University, Sacramento"
+  employer         : # "California State University, Sacramento"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : # "fernanda.maciel@csus.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=pNbfHEwAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-3411-5844"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : proffernandamaciel
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/proffernandamaciel/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : proffernandamaciel
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings

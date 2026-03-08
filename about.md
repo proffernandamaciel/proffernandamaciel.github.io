@@ -1,14 +1,14 @@
 ---
+layout: single
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
-  - /
+redirect_from:
   - /about/
   - /about.html
 ---
 
-XYZ
+Hi, I’m Fernanda. Welcome to my website.
 
 Education
 ======

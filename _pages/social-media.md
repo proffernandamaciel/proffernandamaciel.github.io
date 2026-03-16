@@ -1,5 +1,6 @@
 ---
 layout: single
+sitemap: false
 title: "Social Media"
 permalink: /social-media/
 author_profile: true

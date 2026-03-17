@@ -19,6 +19,8 @@ iMBA214 - Statistical Decision Making [online] (Spring 2022, Spring 2025)
 iMBA Statistics Boot Camp [online] (Spring 2021, Fall 2021, Fall 2025)   
 EMBA223 - Quantitative Methods for Decision Making (Spring 2023, Fall 2023)   
 
+<!-- Add workshops -->
+
 ### Bentley University   
 
 *Undergraduate*   

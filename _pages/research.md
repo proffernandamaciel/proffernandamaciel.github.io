@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Research interests
-- Marketing analytics & causal inference
-- AI in marketing
-- Trust, information overload, and misinformation
+- Marketing Analytics
+- Economics and Causal Analytics
+- Digital Trust and Technology
 
 ## Publications
 
@@ -20,7 +20,7 @@ author_profile: true
 
 - **RFM-Based Customer Segmentation: A Pedagogical Case Study for Marketing Analytics Education**  
   Henrique Carvalho, *Fernanda Maciel*  
-   *Journal for Advancement of Marketing Education*,  vol. 34 (1), p. 14-26, 2026.  
+   *Journal for Advancement of Marketing Education*,  vol. 34 (1), p. 14-26, 2025.  
    [DOI](https://doi.org/10.63963/001c.157562) · [Code/Data](https://jame.scholasticahq.com/article/157562-rfm-based-customer-segmentation-a-pedagogical-case-study-for-marketing-analytics-education)
 
  - **The impact of cash transfer participation on unhealthy consumption in Brazil**  
@@ -33,9 +33,18 @@ author_profile: true
    *Latin American Business Review*, 14 (2), 139-161, 2013.   
    [DOI](https://www.tandfonline.com/doi/abs/10.1080/10978526.2013.808950)
   
-### Conference papers / Proceedings
-- **Paper Title** (Year) — *Conference Name*  
-  [Paper](...) · [Slides](...)
+### Selected Conference papers / Proceedings
+- **Extending RFM with Temporal and Volume Dimensions for Customer Segmentation and Promotion in Fuel Retailing** (2026) — *WDSI Annual Meeting, Vancouver, BC [upcoming]* 
+  *Fernanda Maciel*, Henrique Carvalho 
+  [Slides](...)
+
+- **Conditional and permanent effects of loyalty engagement on sales volume, price, and transaction size** (2026) — *Meeting of the Brazilian Academy of Management (EnANPAD), Marketing, Aracajú (Brazil)* 
+  Marcos Severo, Henrique Carvalho, *Fernanda Maciel*
+  [Slides](...)
+
+- **AI in Healthcare: Patients' Perspectives on AI-Powered Medical Assistant** (2025) — *WDSI Annual Meeting, Honolulu, HI* 
+  *Fernanda Maciel*, Heng Xie
+  [Slides](...)
 
 ### Working papers
 - **Working Paper Title** (Year)  

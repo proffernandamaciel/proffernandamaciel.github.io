@@ -33,9 +33,10 @@ excerpt: "Academic website for Fernanda Araujo Maciel: research, teaching, resou
   <main class="fm-main-column">
     <header class="fm-home-intro">
       <h1>Fernanda Araujo Maciel</h1>
+      <p class="fm-role"></p>
       <p class="fm-role">Assistant Professor of Business Analytics</p>
       <p class="fm-role">California State University, Sacramento</p>
-      <p class="fm-degree">Ph.D. in Business, Business Analytics, Bentley University, 2020</p>
+      <!-- <p class="fm-degree">Ph.D. in Business, Business Analytics, Bentley University, 2020</p> -->
     </header>
 
     <section class="fm-about-copy" aria-label="About">

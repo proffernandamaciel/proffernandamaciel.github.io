@@ -27,8 +27,7 @@ redirect_from:
   <main class="fm-main-column">
     <h1>CV</h1>
     <section class="fm-cv-placeholder" aria-label="CV placeholder">
-      <p>CV PDF placeholder.</p>
-      <p>When the final PDF is ready, this page can point directly to <code>files/FernandaMaciel_CV.pdf</code>.</p>
+      <p></p>     
     </section>
   </main>
 </div>

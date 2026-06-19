@@ -167,7 +167,6 @@ author_profile: false
         <li><a href="https://data.gov/">U.S. Government Open Data</a>: Open U.S. government data on health, energy, finance, and many other topics.</li>
         <li><a href="https://archive.ics.uci.edu/">UCI Machine Learning Repository</a>: A classic repository for machine learning datasets and model training.</li>
         <li><a href="https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/">NOAA Climate at a Glance</a>: Historical climate data by region, useful for environmental research, policy questions, and time-series practice.</li>
-        <li><a href="https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=8">CEPII Gravity Database</a>: International trade data commonly used for gravity models and applied trade research.</li>
         <li><a href="https://www.enterprisesurveys.org/en/enterprisesurveys">World Bank Enterprise Surveys</a>: Firm-level survey data on the business environment across more than 160 economies.</li>
         <li><a href="https://physionet.org/">PhysioNet</a>: Medical and physiological datasets; some resources require institutional or approved research access.</li>
       </ul>

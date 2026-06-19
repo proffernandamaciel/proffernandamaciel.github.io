@@ -39,7 +39,7 @@ excerpt: "Academic website for Fernanda Araujo Maciel: research, teaching, resou
     </header>
 
     <section class="fm-about-copy" aria-label="About">
-      <p>Welcome. I am Fernanda, an academic in business analytics with a background in statistics, marketing analytics, and business. My work connects data-driven methods with questions about consumers, markets, policy, and technology.</p>
+      <p>Hello and welcome! I am an academic in business analytics with a background in statistics, marketing analytics, and business. My work connects data-driven methods with questions about consumers, markets, policy, and technology.</p>
       <p>On this website, you can find my research, teaching, resource recommendations, and social media channels.</p>
     </section>
 

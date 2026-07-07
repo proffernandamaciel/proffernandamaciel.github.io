@@ -175,6 +175,18 @@ a:hover {
   margin: 0;
 }
 
+.page__content .fm-home-intro h1 {
+  margin-bottom: 0.65rem;
+}
+
+.page__content .fm-home-intro .fm-role {
+  margin: 0;
+}
+
+.page__content .fm-home-intro .fm-role + .fm-role {
+  margin-top: 0.05rem;
+}
+
 .fm-shell--home .fm-role {
   font-size: 0.94rem;
 }

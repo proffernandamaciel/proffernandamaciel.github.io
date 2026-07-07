@@ -37,8 +37,8 @@ excerpt: "Academic website for Fernanda Araujo Maciel: research, teaching, resou
   <main class="fm-main-column">
     <header class="fm-home-intro">
       <h1>Fernanda Araujo Maciel</h1>
-      <p></p>
-      <p class="fm-role">Assistant Professor of Business Analytics, California State University, Sacramento</p>
+      <p class="fm-role">Assistant Professor of Business Analytics</p>
+      <p class="fm-role">California State University, Sacramento</p>
       <!-- <p class="fm-degree">Ph.D. in Business, Business Analytics, Bentley University, 2020</p> -->
     </header>
 
@@ -47,12 +47,5 @@ excerpt: "Academic website for Fernanda Araujo Maciel: research, teaching, resou
       <p>On this website, you can find my research, teaching, resource recommendations, and social media channels.</p>
     </section>
 
-    <nav class="fm-home-nav" aria-label="Website sections">
-      <a href="{{ '/research/' | relative_url }}">Research</a>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-      <a href="{{ '/resources/' | relative_url }}">Resources</a>
-      <a href="{{ '/social-media/' | relative_url }}">Connect</a>
-      <a href="{{ '/cv/' | relative_url }}">CV</a>
-    </nav>
   </main>
 </div>

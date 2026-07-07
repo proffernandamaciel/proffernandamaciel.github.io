@@ -29,121 +29,48 @@ author_profile: false
     <section class="fm-compact-section" aria-labelledby="books-title">
       <h2 id="books-title">Book recommendations</h2>
 
-      <div class="fm-book-list">
-        <article class="fm-book-pair">
-          <div class="fm-book-edition">
-            <div>
-              <h3>Storytelling with Data</h3>
-              <p>Cole Nussbaumer Knaflic</p>
-              <a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic">Amazon link</a>
-            </div>
-            <div class="fm-book-cover"><img src="https://covers.openlibrary.org/b/isbn/9781119002253-L.jpg" alt="Storytelling with Data cover" loading="lazy"></div>
-          </div>
-          <div class="fm-book-edition">
-            <div>
-              <h3>Storytelling com Dados</h3>
-              <p>Cole Nussbaumer Knaflic</p>
-              <a href="https://www.amazon.com.br/s?k=Storytelling+com+Dados+Cole+Nussbaumer+Knaflic">Amazon link</a>
-            </div>
-            <div class="fm-book-cover fm-book-cover--pt"><span>Capa em portugu&ecirc;s</span></div>
-          </div>
-        </article>
-
-        <article class="fm-book-pair">
-          <div class="fm-book-edition">
-            <div>
-              <h3>Naked Statistics</h3>
-              <p>Charles Wheelan</p>
-              <a href="https://www.amazon.com/s?k=Naked+Statistics+Charles+Wheelan">Amazon link</a>
-            </div>
-            <div class="fm-book-cover"><img src="https://covers.openlibrary.org/b/isbn/9780393347777-L.jpg" alt="Naked Statistics cover" loading="lazy"></div>
-          </div>
-          <div class="fm-book-edition">
-            <div>
-              <h3>Estat&iacute;stica: o que &eacute;, para que serve, como funciona</h3>
-              <p>Charles Wheelan</p>
-              <a href="https://www.amazon.com.br/s?k=Charles+Wheelan+Estat%C3%ADstica">Amazon link</a>
-            </div>
-            <div class="fm-book-cover fm-book-cover--pt"><span>Capa em portugu&ecirc;s</span></div>
-          </div>
-        </article>
-
-        <article class="fm-book-pair">
-          <div class="fm-book-edition">
-            <div>
-              <h3>Everybody Lies</h3>
-              <p>Seth Stephens-Davidowitz</p>
-              <a href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz">Amazon link</a>
-            </div>
-            <div class="fm-book-cover"><img src="https://covers.openlibrary.org/b/isbn/9780062390851-L.jpg" alt="Everybody Lies cover" loading="lazy"></div>
-          </div>
-          <div class="fm-book-edition">
-            <div>
-              <h3>Todo Mundo Mente</h3>
-              <p>Seth Stephens-Davidowitz</p>
-              <a href="https://www.amazon.com.br/s?k=Todo+Mundo+Mente+Seth+Stephens-Davidowitz">Amazon link</a>
-            </div>
-            <div class="fm-book-cover fm-book-cover--pt"><span>Capa em portugu&ecirc;s</span></div>
-          </div>
-        </article>
-
-        <article class="fm-book-pair">
-          <div class="fm-book-edition">
-            <div>
-              <h3>Factfulness</h3>
-              <p>Hans Rosling, Ola Rosling, and Anna Rosling R&ouml;nnlund</p>
-              <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling">Amazon link</a>
-            </div>
-            <div class="fm-book-cover"><img src="https://covers.openlibrary.org/b/isbn/9781250107817-L.jpg" alt="Factfulness cover" loading="lazy"></div>
-          </div>
-          <div class="fm-book-edition">
-            <div>
-              <h3>Factfulness</h3>
-              <p>Hans Rosling, Ola Rosling e Anna Rosling R&ouml;nnlund</p>
-              <a href="https://www.amazon.com.br/s?k=Factfulness+Hans+Rosling">Amazon link</a>
-            </div>
-            <div class="fm-book-cover fm-book-cover--pt"><span>Capa em portugu&ecirc;s</span></div>
-          </div>
-        </article>
-
-        <article class="fm-book-pair">
-          <div class="fm-book-edition">
-            <div>
-              <h3>Freakonomics</h3>
-              <p>Steven D. Levitt and Stephen J. Dubner</p>
-              <a href="https://www.amazon.com/s?k=Freakonomics+Levitt+Dubner">Amazon link</a>
-            </div>
-            <div class="fm-book-cover"><img src="https://covers.openlibrary.org/b/isbn/9780060731335-L.jpg" alt="Freakonomics cover" loading="lazy"></div>
-          </div>
-          <div class="fm-book-edition">
-            <div>
-              <h3>Freakonomics: o lado oculto e inesperado de tudo que nos afeta</h3>
-              <p>Steven D. Levitt e Stephen J. Dubner</p>
-              <a href="https://www.amazon.com.br/s?k=Freakonomics+Levitt+Dubner">Amazon link</a>
-            </div>
-            <div class="fm-book-cover fm-book-cover--pt"><span>Capa em portugu&ecirc;s</span></div>
-          </div>
-        </article>
-
-        <article class="fm-book-pair">
-          <div class="fm-book-edition">
-            <div>
-              <h3>How to Lie with Statistics</h3>
-              <p>Darrell Huff</p>
-              <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff">Amazon link</a>
-            </div>
-            <div class="fm-book-cover"><img src="https://covers.openlibrary.org/b/isbn/9780393310726-L.jpg" alt="How to Lie with Statistics cover" loading="lazy"></div>
-          </div>
-          <div class="fm-book-edition">
-            <div>
-              <h3>Como Mentir com Estat&iacute;stica</h3>
-              <p>Darrell Huff</p>
-              <a href="https://www.amazon.com.br/s?k=Como+Mentir+com+Estat%C3%ADstica+Darrell+Huff">Amazon link</a>
-            </div>
-            <div class="fm-book-cover fm-book-cover--pt"><span>Capa em portugu&ecirc;s</span></div>
-          </div>
-        </article>
-      </div>
+      <ul class="fm-book-simple-list">
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic">Storytelling with Data</a> <span class="fm-book-author">Cole Nussbaumer Knaflic</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Storytelling+com+Dados+Cole+Nussbaumer+Knaflic">PT: Storytelling com Dados</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Naked+Statistics+Charles+Wheelan">Naked Statistics</a> <span class="fm-book-author">Charles Wheelan</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Charles+Wheelan+Estat%C3%ADstica">PT: Estat&iacute;stica: o que &eacute;, para que serve, como funciona</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz">Everybody Lies</a> <span class="fm-book-author">Seth Stephens-Davidowitz</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Todo+Mundo+Mente+Seth+Stephens-Davidowitz">PT: Todo Mundo Mente</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling">Factfulness</a> <span class="fm-book-author">Hans Rosling, Ola Rosling, and Anna Rosling R&ouml;nnlund</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Factfulness+Hans+Rosling">PT: Factfulness</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Freakonomics+Levitt+Dubner">Freakonomics</a> <span class="fm-book-author">Steven D. Levitt and Stephen J. Dubner</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Freakonomics+Levitt+Dubner">PT: Freakonomics: o lado oculto e inesperado de tudo que nos afeta</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff">How to Lie with Statistics</a> <span class="fm-book-author">Darrell Huff</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Como+Mentir+com+Estat%C3%ADstica+Darrell+Huff">PT: Como Mentir com Estat&iacute;stica</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman">Thinking, Fast and Slow</a> <span class="fm-book-author">Daniel Kahneman</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=R%C3%A1pido+e+Devagar+Daniel+Kahneman">PT: R&aacute;pido e Devagar: Duas Formas de Pensar</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter">The Art of Statistics</a> <span class="fm-book-author">David Spiegelhalter</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=A+Arte+da+Estat%C3%ADstica+David+Spiegelhalter">PT: A Arte da Estat&iacute;stica</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell">Outliers</a> <span class="fm-book-author">Malcolm Gladwell</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Fora+de+S%C3%A9rie+Outliers+Malcolm+Gladwell">PT: Fora de S&eacute;rie: Outliers</a>
+        </li>
+        <li>
+          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow">The Drunkard's Walk</a> <span class="fm-book-author">Leonard Mlodinow</span></div>
+          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=O+Andar+do+B%C3%AAbado+Leonard+Mlodinow">PT: O Andar do B&ecirc;bado</a>
+        </li>
+      </ul>
     </section>
 
     <section class="fm-compact-section" aria-labelledby="movies-title">
@@ -167,6 +94,7 @@ author_profile: false
         <li><a href="https://data.gov/">U.S. Government Open Data</a>: Open U.S. government data on health, energy, finance, and many other topics.</li>
         <li><a href="https://archive.ics.uci.edu/">UCI Machine Learning Repository</a>: A classic repository for machine learning datasets and model training.</li>
         <li><a href="https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/">NOAA Climate at a Glance</a>: Historical climate data by region, useful for environmental research, policy questions, and time-series practice.</li>
+        <li><a href="https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=8">CEPII Gravity Database</a>: International trade data commonly used for gravity models and applied trade research.</li>
         <li><a href="https://www.enterprisesurveys.org/en/enterprisesurveys">World Bank Enterprise Surveys</a>: Firm-level survey data on the business environment across more than 160 economies.</li>
         <li><a href="https://physionet.org/">PhysioNet</a>: Medical and physiological datasets; some resources require institutional or approved research access.</li>
       </ul>

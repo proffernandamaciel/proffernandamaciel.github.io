@@ -30,46 +30,16 @@ author_profile: false
       <h2 id="books-title">Book recommendations</h2>
 
       <ul class="fm-book-simple-list">
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic">Storytelling with Data</a> <span class="fm-book-author">Cole Nussbaumer Knaflic</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Storytelling+com+Dados+Cole+Nussbaumer+Knaflic">PT: Storytelling com Dados</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Naked+Statistics+Charles+Wheelan">Naked Statistics</a> <span class="fm-book-author">Charles Wheelan</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Charles+Wheelan+Estat%C3%ADstica">PT: Estat&iacute;stica: o que &eacute;, para que serve, como funciona</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz">Everybody Lies</a> <span class="fm-book-author">Seth Stephens-Davidowitz</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Todo+Mundo+Mente+Seth+Stephens-Davidowitz">PT: Todo Mundo Mente</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling">Factfulness</a> <span class="fm-book-author">Hans Rosling, Ola Rosling, and Anna Rosling R&ouml;nnlund</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Factfulness+Hans+Rosling">PT: Factfulness</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Freakonomics+Levitt+Dubner">Freakonomics</a> <span class="fm-book-author">Steven D. Levitt and Stephen J. Dubner</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Freakonomics+Levitt+Dubner">PT: Freakonomics: o lado oculto e inesperado de tudo que nos afeta</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff">How to Lie with Statistics</a> <span class="fm-book-author">Darrell Huff</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Como+Mentir+com+Estat%C3%ADstica+Darrell+Huff">PT: Como Mentir com Estat&iacute;stica</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman">Thinking, Fast and Slow</a> <span class="fm-book-author">Daniel Kahneman</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=R%C3%A1pido+e+Devagar+Daniel+Kahneman">PT: R&aacute;pido e Devagar: Duas Formas de Pensar</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter">The Art of Statistics</a> <span class="fm-book-author">David Spiegelhalter</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=A+Arte+da+Estat%C3%ADstica+David+Spiegelhalter">PT: A Arte da Estat&iacute;stica</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell">Outliers</a> <span class="fm-book-author">Malcolm Gladwell</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=Fora+de+S%C3%A9rie+Outliers+Malcolm+Gladwell">PT: Fora de S&eacute;rie: Outliers</a>
-        </li>
-        <li>
-          <div><a class="fm-book-title" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow">The Drunkard's Walk</a> <span class="fm-book-author">Leonard Mlodinow</span></div>
-          <a class="fm-book-pt" href="https://www.amazon.com.br/s?k=O+Andar+do+B%C3%AAbado+Leonard+Mlodinow">PT: O Andar do B&ecirc;bado</a>
-        </li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic">Storytelling with Data</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Storytelling+com+Dados+Cole+Nussbaumer+Knaflic">Storytelling com Dados</a>)</span>, <span class="fm-book-author">Cole Nussbaumer Knaflic</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Naked+Statistics+Charles+Wheelan">Naked Statistics</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Charles+Wheelan+Estat%C3%ADstica">Estat&iacute;stica: o que &eacute;, para que serve, como funciona</a>)</span>, <span class="fm-book-author">Charles Wheelan</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Everybody+Lies+Seth+Stephens-Davidowitz">Everybody Lies</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Todo+Mundo+Mente+Seth+Stephens-Davidowitz">Todo Mundo Mente</a>)</span>, <span class="fm-book-author">Seth Stephens-Davidowitz</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling">Factfulness</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Factfulness+Hans+Rosling">Factfulness</a>)</span>, <span class="fm-book-author">Hans Rosling, Ola Rosling, and Anna Rosling R&ouml;nnlund</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Freakonomics+Levitt+Dubner">Freakonomics</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Freakonomics+Levitt+Dubner">Freakonomics: o lado oculto e inesperado de tudo que nos afeta</a>)</span>, <span class="fm-book-author">Steven D. Levitt and Stephen J. Dubner</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff">How to Lie with Statistics</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Como+Mentir+com+Estat%C3%ADstica+Darrell+Huff">Como Mentir com Estat&iacute;stica</a>)</span>, <span class="fm-book-author">Darrell Huff</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman">Thinking, Fast and Slow</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=R%C3%A1pido+e+Devagar+Daniel+Kahneman">R&aacute;pido e Devagar: Duas Formas de Pensar</a>)</span>, <span class="fm-book-author">Daniel Kahneman</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter">The Art of Statistics</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=A+Arte+da+Estat%C3%ADstica+David+Spiegelhalter">A Arte da Estat&iacute;stica</a>)</span>, <span class="fm-book-author">David Spiegelhalter</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell">Outliers</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=Fora+de+S%C3%A9rie+Outliers+Malcolm+Gladwell">Fora de S&eacute;rie: Outliers</a>)</span>, <span class="fm-book-author">Malcolm Gladwell</span>.</li>
+        <li><a class="fm-book-title" href="https://www.amazon.com/s?k=The+Drunkard%27s+Walk+Leonard+Mlodinow">The Drunkard's Walk</a> <span class="fm-book-pt">(PT-BR: <a href="https://www.amazon.com.br/s?k=O+Andar+do+B%C3%AAbado+Leonard+Mlodinow">O Andar do B&ecirc;bado</a>)</span>, <span class="fm-book-author">Leonard Mlodinow</span>.</li>
       </ul>
     </section>
 

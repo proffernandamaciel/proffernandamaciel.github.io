@@ -24,7 +24,7 @@ author_profile: false
 
   <main class="fm-main-column">
     <h1>Resources</h1>
-    <p class="fm-page-lede fm-page-lede--compact">A curated library for books, movies, YouTube channels, datasets, and other resources I recommend for learning about analytics, statistics, marketing, and technology.</p>
+    <p class="fm-page-lede fm-page-lede--compact">A curated library for books, movies, datasets, and YouTube channels I recommend for learning about analytics, statistics, and technology.</p>
 
     <section class="fm-compact-section" aria-labelledby="books-title">
       <h2 id="books-title">Book recommendations</h2>

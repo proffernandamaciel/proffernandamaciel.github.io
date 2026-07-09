@@ -80,9 +80,9 @@ author_profile: false
     <section class="fm-compact-section" aria-labelledby="youtube-title">
       <h2 id="youtube-title">YouTube channels</h2>
       <ul class="fm-compact-list">
-        <li><a href="https://www.youtube.com/@statquest">StatQuest with Josh Starmer</a></li>
-        <li><a href="https://www.youtube.com/@BCFoltz">Brandon Foltz</a></li>
-        <li><a href="https://www.youtube.com/@AlexTheAnalyst">Alex The Analyst</a></li>
+        <li><strong><a href="https://www.youtube.com/@statquest">StatQuest with Josh Starmer</a></strong></li>
+        <li><strong><a href="https://www.youtube.com/@BCFoltz">Brandon Foltz</a></strong></li>
+        <li><strong><a href="https://www.youtube.com/@AlexTheAnalyst">Alex The Analyst</a></strong></li>
       </ul>
     </section>
   </main>

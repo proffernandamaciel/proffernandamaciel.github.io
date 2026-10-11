@@ -35,24 +35,50 @@ a:hover {
   display: none;
 }
 
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
+  background: var(--fm-cream) !important;
+}
+
 .masthead {
-  background: rgba(255, 253, 248, 0.96);
   border-bottom: 1px solid var(--fm-border);
   box-shadow: 0 6px 18px rgba(40, 38, 32, 0.035);
 }
 
-.greedy-nav {
-  background: transparent;
+.greedy-nav .hidden-links {
+  border: 1px solid var(--fm-border);
+  box-shadow: 0 10px 24px rgba(40, 38, 32, 0.08);
 }
 
-.masthead__menu-item a {
-  color: var(--fm-ink);
+.greedy-nav .hidden-links li {
+  border-top: 1px solid rgba(229, 216, 199, 0.75);
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: var(--fm-ink) !important;
 }
 
 .masthead__menu-item.selected a,
 .masthead__menu-item a:hover,
-.masthead__menu-item--lg a {
-  color: var(--fm-teal);
+.masthead__menu-item--lg a,
+.greedy-nav a:hover {
+  color: var(--fm-teal) !important;
+}
+
+.greedy-nav button {
+  background: var(--fm-cream) !important;
+  border: 0;
+}
+
+.greedy-nav button .navicon,
+.greedy-nav button .navicon::before,
+.greedy-nav button .navicon::after {
+  background: var(--fm-teal) !important;
 }
 
 .masthead__menu-item--lg a {

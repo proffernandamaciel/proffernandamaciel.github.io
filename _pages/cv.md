@@ -26,8 +26,16 @@ redirect_from:
 
   <main class="fm-main-column">
     <h1>CV</h1>
-    <section class="fm-cv-placeholder" aria-label="CV placeholder">
-      <p></p>     
+    <section class="fm-cv-placeholder" aria-label="CV">
+      <p>
+        <a href="{{ '/files/Fernanda_Maciel_CV.pdf' | relative_url }}">
+          Open CV
+        </a>
+      </p>
     </section>
+
+    <script>
+      window.location.href = "{{ '/files/Fernanda_Maciel_CV.pdf' | relative_url }}";
+    </script>
   </main>
 </div>

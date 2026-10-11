@@ -35,23 +35,32 @@ a:hover {
   display: none;
 }
 
-.masthead,
-.masthead__inner-wrap,
-.masthead__menu,
-.greedy-nav,
-.greedy-nav .visible-links,
-.greedy-nav .hidden-links {
-  background: var(--fm-cream) !important;
-}
-
 .masthead {
+  background: rgba(255, 253, 248, 0.96);
   border-bottom: 1px solid var(--fm-border);
   box-shadow: 0 6px 18px rgba(40, 38, 32, 0.035);
 }
 
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.greedy-nav .visible-links a,
+.masthead__menu-item,
+.masthead__menu-item a {
+  background: transparent !important;
+}
+
 .greedy-nav .hidden-links {
+  background: rgba(255, 253, 248, 0.98) !important;
   border: 1px solid var(--fm-border);
   box-shadow: 0 10px 24px rgba(40, 38, 32, 0.08);
+}
+
+.greedy-nav .hidden-links li,
+.greedy-nav .hidden-links a {
+  background: rgba(255, 253, 248, 0.98) !important;
 }
 
 .greedy-nav .hidden-links li {
@@ -71,7 +80,7 @@ a:hover {
 }
 
 .greedy-nav button {
-  background: var(--fm-cream) !important;
+  background: transparent !important;
   border: 0;
 }
 

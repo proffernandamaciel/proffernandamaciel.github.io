@@ -445,13 +445,15 @@ a:hover {
   color: var(--fm-coral);
   font-size: 0.88rem;
   font-weight: 700;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
 }
 
 .fm-book-pt a {
   color: var(--fm-coral);
   font-weight: 700;
-  text-decoration: underline;
+  text-decoration: underline !important;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.16em;
 }

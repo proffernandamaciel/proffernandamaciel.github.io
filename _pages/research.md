@@ -58,6 +58,16 @@ author_profile: false
       <h2 id="conference-papers">Selected conference papers</h2>
       <div class="fm-paper-list">
         <article>
+          <h3>Does Generative AI Undermine Students' Independent Learning? Insights from Vygotsky's Constructivist Theory</h3>
+          <p>Z. Aivazpour and <strong>Fernanda Maciel</strong>. Accepted at ICIS 2026, to be presented in December 2026.</p>
+        </article>
+
+        <article>
+          <h3>From Data to Decisions: Teaching Customer Analytics with Real Data</h3>
+          <p><strong>Fernanda Maciel</strong>. Innovation Lab session at the DSI Annual Pedagogy Conference, online, May 2026. [Invited]</p>
+        </article>
+
+        <article>
           <h3>Extending RFM with Temporal and Volume Dimensions for Customer Segmentation and Promotion in Fuel Retailing</h3>
           <p><strong>Fernanda Maciel</strong> and Henrique Carvalho. WDSI Annual Meeting, Vancouver, BC, 2026.</p>
         </article>
